@@ -40,7 +40,7 @@ python main.py
 Po uruchomieniu program poprosi o podanie kryteriów:
 
 ```text
-Podaj kryteria wyszukiwania: robert
+Podaj kryteria wyszukiwania: zerynger
 ```
 
 ---
@@ -49,26 +49,22 @@ Podaj kryteria wyszukiwania: robert
 
 ```text
 === OSOBY ===
-1. Robert Miotk Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr)
-2. Robert Barbucha Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr inż.)
-3. Robert Matysko Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr hab. inż.)
+1. Piotr Zerynger Ośrodek Przetwarzania Informacji — Państwowy Instytut Badawczy (lic.)
+2. Joanna Geringer-Grabda ()
+3. Henryk Geringer de Oedenberg (prof. dr hab.)
+4. Agnieszka Ceryngier Polsko-Japońska Akademia Technik Komputerowych (mgr inż.)
+5. Piotr Ceryngier Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie (dr hab.)
+6. Jakub Zenger Politechnika Poznańska (mgr inż.)
 
 === PUBLIKACJE ===
-1. [2018] Roberta Lockiego internalizm deontologiczny
-   Typ: ARTICLE
-2. [2018] Roberta Lockiego internalizm deontologiczny
-   Typ: ARTICLE
-3. [2019] Inferencjalizm semantyczny Roberta B. Brandoma
-   Typ: BOOK
-4. [2009] "Powrót historii" w ujęciu Roberta Kagana
+1. [1999] Beringer z Bambergu
    Typ: CHAPTER
-5. [2005] Relacje transatlantyckie w kontekście rozważań Roberta Kagana,
-   Typ: BOOK
-6. [2016] R. C. Roberts, Emotions in the Moral Life
+2. [2014] Niedostrzegalni zabójcy: życie, różnorodność i znaczenie parazytoidów
+   Typ: CHAPTER
+3. [2014] Niedostrzegalni zabójcy: życie, różnorodność i znaczenie parazytoidów
+   Typ: CHAPTER
+4. [2015] Ecology of dormancy in ladybird beetles (Coleoptera: Coccinellidae)
    Typ: ARTICLE
-7. [2024] Transcendentalne argumenty Roberta Lockiego przeciw determinizmowi
-   Typ: ARTICLE
-   DOI: 10.18290/rf24722.22
 ```
 
 ---
