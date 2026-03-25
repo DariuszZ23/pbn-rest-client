@@ -7,7 +7,7 @@ import requests
 def get_publication_by_surname(name):
     # pobranie frazy od użytkownika
     print("Pobiera publikacje według nazwiska autora z systemu 'Polskie Publikacje Naukowe'.")
-    query = input("Podaj nazwisko autora: ")
+    query = input("Podaj kryteria wyszukiwania: ")
 
     # URL endpointu
     url = "https://pbn.nauka.gov.pl/core/rest/search/main/extended/0/10/current=true&"

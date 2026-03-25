@@ -37,10 +37,10 @@ pip install requests
 python main.py
 ```
 
-Po uruchomieniu program poprosi o podanie nazwiska autora:
+Po uruchomieniu program poprosi o podanie kryteriów:
 
 ```text
-Podaj nazwisko autora: Rzanny
+Podaj kryteria wyszukiwania: robert
 ```
 
 ---
@@ -49,13 +49,26 @@ Podaj nazwisko autora: Rzanny
 
 ```text
 === OSOBY ===
-1. Małgorzata Rzanny-Owczarzak (dr)
-2. Paweł Rzanny (mgr inż.)
+1. Robert Miotk Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr)
+2. Robert Barbucha Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr inż.)
+3. Robert Matysko Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk (dr hab. inż.)
 
 === PUBLIKACJE ===
-1. [2018] Paediatric burn injuries - retrospective evaluation...
+1. [2018] Roberta Lockiego internalizm deontologiczny
    Typ: ARTICLE
-   DOI: 10.5114/polp.2018.82649
+2. [2018] Roberta Lockiego internalizm deontologiczny
+   Typ: ARTICLE
+3. [2019] Inferencjalizm semantyczny Roberta B. Brandoma
+   Typ: BOOK
+4. [2009] "Powrót historii" w ujęciu Roberta Kagana
+   Typ: CHAPTER
+5. [2005] Relacje transatlantyckie w kontekście rozważań Roberta Kagana,
+   Typ: BOOK
+6. [2016] R. C. Roberts, Emotions in the Moral Life
+   Typ: ARTICLE
+7. [2024] Transcendentalne argumenty Roberta Lockiego przeciw determinizmowi
+   Typ: ARTICLE
+   DOI: 10.18290/rf24722.22
 ```
 
 ---
