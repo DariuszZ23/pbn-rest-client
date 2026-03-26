@@ -39,13 +39,17 @@ python main.py
 
 Po uruchomieniu program poprosi o podanie kryteriów:
 
-```text
+```text 
+kryterium nazwisko
 Podaj kryteria wyszukiwania: zerynger
+
+kryterium nazwa uczelni 
+Podaj kryteria wyszukiwania: pjatk
 ```
 
 ---
 
-## 📊 Przykładowy wynik
+## 📊 Przykładowy wynik dla kryterium nazwisko
 
 ```text
 === OSOBY ===
