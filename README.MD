@@ -1,13 +1,13 @@
 # 📚 PBN REST Client (Python)
 
-Prosty program w Pythonie umożliwiający wyszukiwanie publikacji naukowych oraz autorów w systemie PBN (Polska Bibliografia Naukowa) na podstawie nazwiska podanego przez użytkownika.
+Prosty program w Pythonie umożliwiający wyszukiwanie publikacji naukowych oraz autorów w systemie PBN [Polska Bibliografia Naukowa] (https://pbn.nauka.gov.pl/) na podstawie zadanych kryteriów przez użytkownika.
 
 ---
 
 ## 🚀 Funkcjonalności
 
 ✅ Pobieranie danych z REST API PBN
-✅ Wprowadzanie nazwiska autora z konsoli
+✅ Wprowadzanie kryteriów wyszukiawania z konsoli (np. nazwisko lub imię lub fragment tytułu publikacji)
 ✅ Automatyczne rozdzielenie wyników na:
 
 * 👤 osoby (autorzy)
@@ -81,13 +81,13 @@ https://pbn.nauka.gov.pl/core/rest/search/main/extended/0/10/current=true
 
 Parametry:
 
-* `query` – nazwisko autora
+* `query` – kryterium wyszukiwania
 
 ---
 
 ## 🧠 Logika działania
 
-1. Program pobiera nazwisko od użytkownika (`input`)
+1. Program prosi o kryteria od użytkownika (`input`)
 2. Wysyła zapytanie HTTP do API PBN
 3. Odbiera odpowiedź w formacie JSON
 4. Przetwarza dane:
