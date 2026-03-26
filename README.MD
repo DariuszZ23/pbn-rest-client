@@ -7,7 +7,7 @@ Skrypt w Pythonie umożliwiający wyszukiwanie publikacji naukowych oraz autoró
 ## 🚀 Funkcjonalności
 
 ✅ Pobieranie danych z REST API PBN
-✅ Wprowadzanie kryteriów wyszukiawania z konsoli (np. nazwisko lub imię lub fragment tytułu publikacji)
+✅ Wprowadzanie kryteriów wyszukiwania z konsoli (np. nazwisko lub imię lub fragment tytułu publikacji)
 ✅ Automatyczne rozdzielenie wyników na:
 
 * 👤 osoby (autorzy)
