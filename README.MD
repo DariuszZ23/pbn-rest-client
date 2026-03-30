@@ -134,4 +134,6 @@ Projekt edukacyjny pokazujący:
 
 ## 👨‍💻 Autor
 
+Dariusz Zerynger
+
 Projekt stworzony w celach nauki i rozwijania umiejętności pracy z API.
